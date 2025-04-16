@@ -1,0 +1,70 @@
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\appsettings.Development.json
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\appsettings.json
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\BookManagemntApp.exe
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\BookManagemntApp.deps.json
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\BookManagemntApp.runtimeconfig.json
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\BookManagemntApp.dll
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\BookManagemntApp.pdb
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\FluentValidation.dll
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.csproj.AssemblyReference.cache
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.AssemblyInfoInputs.cache
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.AssemblyInfo.cs
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.csproj.CoreCompileInputs.cache
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets\msbuild.BookManagemntApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BookManagemntApp.props
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookManagemntApp.props
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookManagemntApp.props
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\scopedcss\bundle\BookManagemntApp.styles.css
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookMana.A203F0CC.Up2Date
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.dll
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\refint\BookManagemntApp.dll
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.pdb
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.genruntimeconfig.cache
+D:\GitHub Training\Day2Demo\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\ref\BookManagemntApp.dll
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\appsettings.Development.json
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\appsettings.json
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\BookManagemntApp.exe
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\BookManagemntApp.deps.json
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\BookManagemntApp.runtimeconfig.json
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\BookManagemntApp.dll
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\BookManagemntApp.pdb
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\FluentValidation.dll
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.csproj.AssemblyReference.cache
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.AssemblyInfoInputs.cache
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.AssemblyInfo.cs
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.csproj.CoreCompileInputs.cache
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets\msbuild.BookManagemntApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BookManagemntApp.props
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookManagemntApp.props
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookManagemntApp.props
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\scopedcss\bundle\BookManagemntApp.styles.css
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookMana.A203F0CC.Up2Date
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.dll
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\refint\BookManagemntApp.dll
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.pdb
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\BookManagemntApp.genruntimeconfig.cache
+D:\GitHub Training\Practice Project\BookManagemntApp\BookManagemntApp\obj\Debug\net8.0\ref\BookManagemntApp.dll
